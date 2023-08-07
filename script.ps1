@@ -4,7 +4,7 @@ $location="East US 2"
 $vnetName="linked-az-Vnet-1"
 $vnetName2="linked-az-Vnet-2"
 $subnetName="WebTier"
-$subnetName2="BusinessLogicTier1"
+$subnetName2="BusinessLogicTier"
 $vmName="Vm-001"
 
 # CREATE RESOURCE GROUP
